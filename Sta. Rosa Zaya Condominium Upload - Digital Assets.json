@@ -1,0 +1,34 @@
+{
+  "JN-ZYA-CS": {
+    "map": "https://jn-img.enclaves.ph/Zaya/Map/Zaya_Map.jpg?updatedAt=1701838755183",
+    "sdp": "https://jn-img.enclaves.ph/Zaya/SDP/Zaya_SDP.jpg?updatedAt=1701838757566",
+    "facade": "https://jn-img.enclaves.ph/Zaya/Facade/Phase%201/B-01/Zaya_Facade_Phase%201_B-01_Front.png?updatedAt=1701838755136",
+    "key": "https://jn-img.enclaves.ph/Zaya/Keyplan/D02/Zaya_Keyplan_D-02_Second%20and%20Fourth%20Floor.jpg?updatedAt=1701838728632",
+    "floorPlan": "https://jn-img.enclaves.ph/Zaya/Floorplan/Zaya_Floor%20Plan_Ground%20Floor%20Studio_24.00SQM?updatedAt=1701838757445",
+    "model": "https://jn-img.enclaves.ph/Zaya/Model%20Unit/Rendered%20Model%20Unit/Noontide/Copy%20of%20Noontide_Scene%208.jpg?updatedAt=1701838743004"
+  },
+  "JN-ZYA-CSV": {
+    "map": "https://jn-img.enclaves.ph/Zaya/Map/Zaya_Map.jpg?updatedAt=1701838755183",
+    "sdp": "https://jn-img.enclaves.ph/Zaya/SDP/Zaya_SDP.jpg?updatedAt=1701838757566",
+    "facade": "https://jn-img.enclaves.ph/Zaya/Facade/Phase%201/B-01/Zaya_Facade_Phase%201_B-01_Front.png?updatedAt=1701838755136",
+    "key": "https://jn-img.enclaves.ph/Zaya/Keyplan/D02/Zaya_Keyplan_D-02_Second%20and%20Fourth%20Floor.jpg?updatedAt=1701838728632",
+    "floorPlan": "https://jn-img.enclaves.ph/Zaya/Floorplan/Zaya_Floor%20Plan_Ground%20Floor%20Veranda%20Unit_28.00SQM?updatedAt=1701838756730",
+    "model": "https://jn-img.enclaves.ph/Zaya/Model%20Unit/Rendered%20Model%20Unit/Noontide/Copy%20of%20Noontide_Scene%208.jpg?updatedAt=1701838743004"
+  },
+  "JN-ZYA-CSEU": {
+    "map": "https://jn-img.enclaves.ph/Zaya/Map/Zaya_Map.jpg?updatedAt=1701838755183",
+    "sdp": "https://jn-img.enclaves.ph/Zaya/SDP/Zaya_SDP.jpg?updatedAt=1701838757566",
+    "facade": "https://jn-img.enclaves.ph/Zaya/Facade/Phase%201/B-01/Zaya_Facade_Phase%201_B-01_Front.png?updatedAt=1701838755136",
+    "key": "https://jn-img.enclaves.ph/Zaya/Keyplan/D02/Zaya_Keyplan_D-02_Second%20and%20Fourth%20Floor.jpg?updatedAt=1701838728632",
+    "floorPlan": "https://jn-img.enclaves.ph/Zaya/Floorplan/Zaya_Floor%20Plan_Ground%20Floor%20Studio_24.00SQM?updatedAt=1701838757445",
+    "model": "https://jn-img.enclaves.ph/Zaya/Model%20Unit/Rendered%20Model%20Unit/Noontide/Copy%20of%20Noontide_Scene%208.jpg?updatedAt=1701838743004"
+  },
+  "JN-ZYA-CSVEU": {
+    "map": "https://jn-img.enclaves.ph/Zaya/Map/Zaya_Map.jpg?updatedAt=1701838755183",
+    "sdp": "https://jn-img.enclaves.ph/Zaya/SDP/Zaya_SDP.jpg?updatedAt=1701838757566",
+    "facade": "https://jn-img.enclaves.ph/Zaya/Facade/Phase%201/B-01/Zaya_Facade_Phase%201_B-01_Front.png?updatedAt=1701838755136",
+    "key": "https://jn-img.enclaves.ph/Zaya/Keyplan/D02/Zaya_Keyplan_D-02_Second%20and%20Fourth%20Floor.jpg?updatedAt=1701838728632",
+    "floorPlan": "https://jn-img.enclaves.ph/Zaya/Floorplan/Zaya_Floor%20Plan_Ground%20Floor%20Veranda%20Unit_28.00SQM?updatedAt=1701838756730",
+    "model": "https://jn-img.enclaves.ph/Zaya/Model%20Unit/Rendered%20Model%20Unit/Noontide/Copy%20of%20Noontide_Scene%208.jpg?updatedAt=1701838743004"
+  }
+}
